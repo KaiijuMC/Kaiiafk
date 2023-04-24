@@ -1,0 +1,7 @@
+name: KaiiAFK
+version: ${version}
+main: dev.kugge.kaiiafk.KaiiAfk
+api-version: 1.19
+folia-supported: true
+authors: [kugge]
+description: Simple AFK plugin for Folia
